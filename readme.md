@@ -12,6 +12,11 @@
             
             
 然後這個EFI是基於 https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI 來去修改成這個只有內顯的版本，純屬分享
+
+
+
+
+
 ![](https://i.imgur.com/CbBwZzc.png)
 
 
